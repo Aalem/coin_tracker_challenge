@@ -1,7 +1,6 @@
 
-# Coin Tracker
-
-A flutter application which is used to display the price of cryptocurrencies such as Bitcoin, Ether, and Litecoin, for the selected fiat currency.
+# Coin Tracker Challenge
+You may follow the TODOs created in the code to complete the challenge.
 
 ### End Result Screenshots
 #### iOS
